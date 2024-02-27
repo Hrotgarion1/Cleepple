@@ -1,0 +1,75 @@
+<?php
+
+return [
+/*createEstud*/
+'label-createEstud' => 'Study Center:',
+'placeholder-createEstud' => 'Center name',
+'label-1-createEstud' => 'Course title:',
+'placeholder-1-createEstud' => 'Name of course taken',
+'label-2-createEstud' => 'Category:',
+'placeholder-2-createEstud' => 'A-level, National Diploma etc..',
+'label-3-createEstud' => 'Starting date:',
+'placeholder-3-createEstud' => 'Date you began the course',
+'label-4-createEstud' => 'Ending date:',
+'placeholder-4-createEstud' => 'Date you completed the course',
+'label-5-createEstud' => 'Suggested Eps:',
+'placeholder-5-createEstud' => 'Eps obtained',
+'label-6-createEstud' => 'Course-related profession:',
+'placeholder-6-createEstud' => 'Profession',
+'label-7-createEstud' => 'Specialty:',
+'placeholder-7-createEstud' => 'Specialization',
+'button-createEstud' => 'Save',
+'button-1-createEstud' => 'Cancel',
+
+/*estudio-component*/
+'title-estudio-component' => 'Studies',
+'data-estudio-component' => 'Suggested Eps:',
+'data-1-estudio-component' => 'Verified Eps:',
+'description-estudio-component' => 'In this section you can register the courses you have taken and add Eps to your curriculum, whenever possible try to have them verified by the center where you studied, so you can give more credibility to your curriculum.',
+'button-estudio-component' => 'Register a course',
+'td-estudio-component' => 'Verified Eps:',
+'td-1-estudio-component' => 'Course related profession:',
+'td-2-estudio-component' => 'Specialization:',
+'td-3-estudio-component' => 'Course name:',
+'td-4-estudio-component' => 'Suggested Eps:',
+'td-5-estudio-component' => 'Center name:',
+'td-6-estudio-component' => 'Category:',
+'td-7-estudio-component' => 'Starting date:',
+'td-8-estudio-component' => 'Ending date:',
+'button-1-estudio-component' => 'Edit',
+'button-2-estudio-component' => 'Check out',
+'button-3-estudio-component' => 'Remove',
+
+/*verificateEstud*/
+'label-verificateEstud' => 'To:',
+'placeholder-verificateEstud' => 'Enter the email or user id of the user who can verify the course.',
+'label-1-verificateEstud' => 'Study Center:',
+'placeholder-1-verificateEstud' => 'Center name',
+'label-2-verificateEstud' => 'Course title:',
+'placeholder-2-verificateEstud' => 'Name of course taken',
+'label-3-verificateEstud' => 'Specialization:',
+'placeholder-3-verificateEstud' => 'Course specialization',
+'label-4-verificateEstud' => 'Category:',
+'placeholder-4-verificateEstud' => 'A-level, National Diploma etc..',
+'label-5-verificateEstud' => 'Starting date:',
+'placeholder-5-verificateEstud' => 'Date you began the course',
+'label-6-verificateEstud' => 'Ending date:',
+'placeholder-6-verificateEstud' => 'Date of course completion',
+'button-verificateEstud' => 'Send',
+'button-1-verificateEstud' => 'Cancel',
+
+/*Email verificar-estudios*/
+'title-verificar-estudios' => 'Verifying Studies',
+'h1-verificar-estudios' => 'Data Verification',
+'p-verificar-estudios' => 'The student ',
+'p-1-verificar-estudios' => 'formally requests that you please verify the completion of the course:',
+'p-2-verificar-estudios' => 'of the category:',
+'p-3-verificar-estudios' => 'he performed at his center: ',
+'p-4-verificar-estudios' => 'between the dates',
+'p-5-verificar-estudios' => 'and',
+'p-6-verificar-estudios' => 'In order to verify the course taken, the center must be registered in our platform. If you are not registered yet, you can register by clicking on the following link:',
+'p-7-verificar-estudios' => 'Thank you very much for your help,',
+
+
+
+];

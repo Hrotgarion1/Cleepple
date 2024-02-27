@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import "common.css";
+@import "buttons.css";
+
+/* Reemplaza color-adjust con print-color-adjust */
+body {
+    print-color-adjust: exact;
+}
+
+
